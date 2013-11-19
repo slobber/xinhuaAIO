@@ -14,6 +14,6 @@
 
 define('UC_APP_ID', 1); //应用ID
 define('UC_API_TYPE', 'Model'); //可选值 Model / Service
-define('UC_AUTH_KEY', ''); //加密KEY
-define('UC_DB_DSN', ''); // 数据库连接，使用Model方式调用API必须配置此项
-define('UC_TABLE_PREFIX', ''); // 数据表前缀，使用Model方式调用API必须配置此项
+define('UC_AUTH_KEY', 'QSIR)">!y$L+]kBVe9`WgbdX@?P%(~6MrDNT;{q_'); //加密KEY
+define('UC_DB_DSN', 'mysql://root:@127.0.0.1:3306/school'); // 数据库连接，使用Model方式调用API必须配置此项
+define('UC_TABLE_PREFIX', 'sys_'); // 数据表前缀，使用Model方式调用API必须配置此项

@@ -1,4 +1,5 @@
 <?php
+
 // +----------------------------------------------------------------------
 // | OneThink [ WE CAN DO IT JUST THINK IT ]
 // +----------------------------------------------------------------------
@@ -8,26 +9,31 @@
 // +----------------------------------------------------------------------
 
 namespace Admin\Controller;
+
+use Think\Controller;
 use User\Api\UserApi as UserApi;
 
 /**
  * 后台首页控制器
  * @author 麦当苗儿 <zuojiazi@vip.qq.com>
  */
-class IndexController extends AdminController {
+class IndexController extends Controller {
 
-    static protected $allow = array( 'verify');
+  static protected $allow = array('verify');
 
-    /**
-     * 后台首页
-     * @author 麦当苗儿 <zuojiazi@vip.qq.com>
-     */
-    public function index(){
-        if(UID){
-			$this->display();
-        } else {
-            $this->redirect('Public/login');
-        }
+  /**
+   * 后台首页
+   * @author 麦当苗儿 <zuojiazi@vip.qq.com>
+   */
+  public function index() {
+    $userApi = new UserApi();
+    $userApi->login('a', 'b');
+    return;
+    if (UID) {
+      $this->display();
+    } else {
+      $this->redirect('Public/login');
     }
+  }
 
 }

@@ -12,7 +12,7 @@
  * @param  string $str 要加密的字符串
  * @return string 
  */
-function think_ucenter_md5($str, $key = 'ThinkUCenter'){
+function ucenter_md5($str, $key = 'XinhuaUCenter'){
 	return '' === $str ? '' : md5(sha1($str) . $key);
 }
 
@@ -23,7 +23,7 @@ function think_ucenter_md5($str, $key = 'ThinkUCenter'){
  * @param int $expire  过期时间 (单位:秒)
  * @return string 
  */
-function think_ucenter_encrypt($data, $key, $expire = 0) {
+function ucenter_encrypt($data, $key, $expire = 0) {
 	$key  = md5($key);
 	$data = base64_encode($data);
 	$x    = 0;
@@ -48,7 +48,7 @@ function think_ucenter_encrypt($data, $key, $expire = 0) {
  * @param string $key  加密密钥
  * @return string 
  */
-function think_ucenter_decrypt($data, $key){
+function ucenter_decrypt($data, $key){
 	$key    = md5($key);
 	$x      = 0;
 	$data   = base64_decode($data);

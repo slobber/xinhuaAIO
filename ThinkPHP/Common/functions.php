@@ -351,7 +351,7 @@ function import($class, $baseUrl = '', $ext=EXT) {
             $baseUrl = MODULE_PATH;
             $class   = substr_replace($class, '', 0, strlen($class_strut[0]) + 1);
         }elseif (is_dir(LIB_PATH.$class_strut[0])) {
-            // org 第三方公共类库 com 企业公共类库
+            // 系统类库包和第三方类库包
             $baseUrl = LIB_PATH;
         }else { // 加载其他模块的类库
             $baseUrl = APP_PATH;
@@ -1253,4 +1253,9 @@ function filter_exp(&$value){
     if (in_array(strtolower($value),array('exp','or'))){
         $value .= ' ';
     }
+}
+
+// 不区分大小写的in_array实现
+function in_array_case($value,$array){
+    return in_array(strtolower($value),array_map('strtolower',$array));
 }

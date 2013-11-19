@@ -1,0 +1,1146 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"page",
+				"page-title"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"TRAC",
+				"SHOW_PAGE_TRACE"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"table",
+				"table-middle"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"tab",
+				"table-actions"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"In",
+				"INSERT"
+			],
+			[
+				"landC",
+				"landCardNo"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"p",
+				"page-content"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"div",
+				"divider"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"ema",
+				"emailResult"
+			],
+			[
+				"nickname",
+				"nicknameExist"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"DB_",
+				"DB_PREFIX"
+			],
+			[
+				"todayd",
+				"todaydrawing"
+			],
+			[
+				"exe",
+				"execute	->execute"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"fun",
+				"funds"
+			],
+			[
+				"fu",
+				"funds"
+			],
+			[
+				"ass",
+				"assign	->assign"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"pre",
+				"preg_replace"
+			],
+			[
+				"fi",
+				"file_get_contents"
+			],
+			[
+				"dr",
+				"dropdown-menu"
+			],
+			[
+				"user",
+				"userList"
+			],
+			[
+				"get",
+				"getLastSql  (function)"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"nav",
+				"nav-tabs"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"scroll",
+				"scroll-tab"
+			],
+			[
+				"d",
+				"data-toggle=  (attribute)"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"vid",
+				"videoSetId"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"utf",
+				"utf-8"
+			],
+			[
+				"vide",
+				"videoSetInfo"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"m",
+				"meta"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"met",
+				"metas"
+			],
+			[
+				"list",
+				"listRows"
+			],
+			[
+				"new",
+				"new_radio_id"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"la",
+				"last-child"
+			],
+			[
+				"attr",
+				"removeAttr"
+			],
+			[
+				"course",
+				"course-subject"
+			],
+			[
+				"remove",
+				"removeOption"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"ke",
+				"kecheng"
+			],
+			[
+				"su",
+				"subjectId"
+			],
+			[
+				"stu",
+				"students"
+			],
+			[
+				"sem",
+				"semesterMap"
+			],
+			[
+				"ch",
+				"change  (function)"
+			],
+			[
+				"cour",
+				"courseGroup"
+			],
+			[
+				"v",
+				"volist"
+			],
+			[
+				"teac",
+				"teachers"
+			],
+			[
+				"option",
+				"optionTable"
+			],
+			[
+				"is",
+				"is_int"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"sto",
+				"stopPropagation"
+			],
+			[
+				"mou",
+				"mousemove  (function)"
+			],
+			[
+				"cours",
+				"courseList  (variable)"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"subje",
+				"subjectId"
+			],
+			[
+				"courseGr",
+				"courseGroupId"
+			],
+			[
+				"text-d",
+				"text-decoration:   (property)"
+			],
+			[
+				"mod",
+				"module_chooser"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"_S",
+				"_SESSION  (variable)"
+			],
+			[
+				"sub",
+				"subjects"
+			],
+			[
+				"set",
+				"setField  (function)"
+			],
+			[
+				"che",
+				"checked  (function)"
+			],
+			[
+				"bord",
+				"border-right"
+			],
+			[
+				"l",
+				"location  (variable)"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"stud",
+				"student"
+			],
+			[
+				"ck",
+				"check-group"
+			],
+			[
+				"succ",
+				"successMessage"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"JKban",
+				"JKban_xuesheng"
+			],
+			[
+				"erro",
+				"errorMessage"
+			],
+			[
+				"se",
+				"self_remarks"
+			],
+			[
+				"remar",
+				"remarks"
+			],
+			[
+				"class",
+				"class_filter"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"isset",
+				"isset()"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"op",
+				"option"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"js",
+				"Nodejs::UglifyJS"
+			],
+			[
+				"m",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"Format: Javascript"
+			],
+			[
+				"",
+				"Format: Javascript"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ti",
+				"Tidy PHP"
+			],
+			[
+				"t",
+				"Tidy PHP"
+			],
+			[
+				"tid",
+				"Tidy PHP"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Discover Packages"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"程序包控制: 安装",
+				"程序包控制: 安装文件包"
+			],
+			[
+				"程序包控制: ",
+				"程序包控制: 升级/覆盖所有文件包"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Projects/Web/school/Application/Home/Controller/IndexController.class.php",
+		"/D/Projects/Web/school/Application/index.html",
+		"/D/Projects/SVN/xinhua/资源/中华人民共和国教育行业标准.md",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Projects/SVN/xinhua/~runtime/Temp/4c3954c6826ae621950f488770f2cf3c.php",
+		"/D/Projects/SVN/xinhua/资源/xinhuaaio.sql",
+		"/E/Music/Ultimate.Classics/V.A.-.[Ultimate.Classics.CD1].专辑.(Flac)/Various - Ultimate Classics CD1.cue",
+		"/D/Projects/SVN/estasteMap/Shu/site/Tpl/Shu/index.html",
+		"/D/Projects/SVN/estasteMap/Shu/site/Tpl/Shu/officeBuilding.html",
+		"/D/Projects/SVN/xinhua/public/css/bootstrap.css",
+		"/D/Projects/SVN/xinhua/~runtime/Cache/966c7789bf5857eac31da4fd2d414970.php",
+		"/D/Projects/SVN/xinhua/~runtime/Temp/92a1c48de8ff3247de981e893eec09f8.php",
+		"/D/Projects/SVN/estasteMap/Shu/site/Tpl/Shared/cssAndJavascript.html",
+		"/D/Projects/SVN/estasteMap/Shu/site/Tpl/Shared/header.html",
+		"/D/Projects/SVN/estasteMap/Shu/public/css/layout.css",
+		"/D/Projects/SVN/xinhua/srinubasava.com/wb/slick/forms.html",
+		"/D/Projects/SVN/xinhua/public/css/main.css",
+		"/D/Projects/SVN/xinhua/public/js/lib/bootstrap.js",
+		"/D/Projects/SVN/estasteMap/Shu/public/js/app.js",
+		"/D/Projects/SVN/estasteMap/Shr/site/Tpl/Index/login.html",
+		"/D/Projects/SVN/estasteMap/Shr/site/Tpl/Shared/cssAndJavascript.html",
+		"/D/Projects/SVN/estasteMap/Shr/site/Tpl/Admin/Stat.html",
+		"/D/Projects/SVN/estasteMap/Shr/site/Tpl/Admin/Message.html",
+		"/D/Projects/Web/test/apibus.class.php",
+		"/D/Projects/Web/test/samples/sms.php",
+		"/D/Projects/SVN/estasteMap/Shu/~runtime/Cache/87fa4f5ce7adaf9772b21e2651c28ae5.php",
+		"/D/Projects/SVN/estasteMap/Shu/~runtime/Temp/a37d5fb81d51cb760cfa537771916929.php",
+		"/D/Projects/SVN/estasteMap/Shu/~runtime/Temp/7d2ea386558bb233a6d1227740e6f32a.php",
+		"/C/Users/Administrator/Desktop/OFFICE_BUILDING.sql",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/E/Music/hifi/发烧试音碟.-.[金耳朵I].专辑.(APE).cue",
+		"/E/Music/hifi/发烧试音碟.-.[金耳朵Ⅵ].专辑.(APE).cue",
+		"/E/Music/hifi/发烧试音碟.-.[金耳朵Ⅴ].专辑.(APE).cue",
+		"/E/Music/hifi/发烧试音碟.-.[金耳朵V].专辑.(APE).cue",
+		"/E/Music/hifi/发烧试音碟.-.[金耳朵Ⅰ].专辑.(APE).cue",
+		"/E/Music/hifi/发烧试音碟.-.[金耳朵.I].专辑.(APE).cue",
+		"/D/Projects/SVN/bluesky/Public/css/bootstrap.css",
+		"/E/Video/Now.You.See.Me.2013.BluRay.720p.DTS.x264-HDWinG.chs.srt",
+		"/D/Projects/SVN/bluesky/App/Conf/config.php",
+		"/D/Projects/SVN/xinhua/site/php-openid-master/examples/server/setup.php",
+		"/D/Projects/SVN/xinhua/site/php-openid-master/examples/consumer/index.php",
+		"/D/Projects/SVN/bluesky/Public/css/site.css",
+		"/D/Projects/SVN/xinhua/site/php-openid-master/Auth/OpenID.php",
+		"/D/Documents/Tencent Files/40472136/FileRecv/index.html",
+		"/Z/TEMP/fz3temp-1/ContactAction.class.php",
+		"/C/Users/Administrator/Desktop/bluesky.sql",
+		"/Z/TEMP/fz3temp-1/index.php",
+		"/Z/TEMP/fz3temp-1/config.php",
+		"/D/Projects/SVN/bluesky/Runtime/Cache/66489ae0001146057b713c178c5b31ae.php",
+		"/D/Projects/SVN/bluesky/Runtime/Cache/4a6fd5fc430e6a544d97cb14032bb228.php",
+		"/D/Projects/SVN/bluesky/Runtime/Cache/b73a83a74b491d3985505ff852d12232.php",
+		"/Z/TEMP/fz3temp-1/IndexAction.class.php",
+		"/Z/TEMP/fz3temp-1/test.php",
+		"/D/Projects/SVN/bluesky/其他/bluesky20130819.sql",
+		"/C/Users/Administrator/Desktop/111.sql",
+		"/D/Documents/Slobber's iPhone_2013_08_16_19_39_04.messages",
+		"/D/Projects/SVN/bluesky/Runtime/Cache/69b112ddcb892f70efc0e630bca5b5ae.php",
+		"/D/Projects/SVN/bluesky/Public/js/bootstrap-datetimepicker.min.js",
+		"/D/Projects/SVN/bluesky/Public/css/datetimepicker.css",
+		"/D/Projects/SVN/bluesky/Public/css/datepicker.css",
+		"/D/Projects/SVN/bluesky/Public/js/bootstrap-datetimepicker.js",
+		"/E/Music/《最精华的古典》HDCD/《最精华的古典》HDCD/classic show on earth.cue",
+		"/D/Quote.ES1",
+		"/E/Video/新世纪福音战士/Neon.Genesis.Evangelion.2003.Renewal.#02.DD5.1Ch.OPDR.Choya(ED2000.COM).ssa",
+		"/D/Environment/wamp/apps/phpmyadmin4.0.4/config.inc.php",
+		"/D/Future/易盛程序化交易系统/Experts/formula/userfun/TSMA.fml",
+		"/D/Projects/SVN/estasteMap/EstateMap/public/css/layout.css",
+		"/D/Projects/SVN/estasteMap/Shu/site/Lib/Action/ShuAction.class.php",
+		"/D/Projects/SVN/estasteMap/Shu/site/Conf/config.php",
+		"/D/Projects/SVN/estasteMap/Shu/index.php",
+		"/D/Projects/SVN/bluesky/index.php",
+		"/D/Projects/SVN/estasteMap/Shr/site/Lib/Service/HouseService.class.php",
+		"/D/Projects/SVN/estasteMap/Shr/public/js/shr.app.js",
+		"/D/Projects/SVN/estasteMap/EstateMap/site/Conf/config.php",
+		"/D/Projects/SVN/estasteMap/Shu/site/Tpl/Shu/shop.html",
+		"/D/Projects/SVN/estasteMap/Shu/site/Tpl/Shu/shopEdit.html",
+		"/D/Projects/SVN/estasteMap/Shu/site/Tpl/Shu/import.html",
+		"/D/Projects/SVN/estasteMap/Shu/site/Tpl/Shu/officeBuildingEdit.html",
+		"/D/Projects/SVN/estasteMap/EstateMap/site/Common/common.php",
+		"/D/Projects/SVN/bluesky/ThinkPHP/Lib/Core/Log.class.php",
+		"/D/Projects/SVN/bluesky/ThinkPHP/Common/runtime.php",
+		"/D/Projects/SVN/estasteMap/Shr/site/Conf/config.php",
+		"/D/Projects/SVN/bluesky/App/Tpl/Contact/add.html",
+		"/D/Projects/SVN/bluesky/其他/bluesky.sql",
+		"/D/Projects/SVN/bluesky/Runtime/Temp/17fca40619759b95009ab767d74a6f93.php",
+		"/C/Users/Administrator/Desktop/PrDSrv56crk.reg",
+		"/D/Downloads/bluesky.sql",
+		"/D/Projects/SVN/bluesky/Public/js/app.js",
+		"/D/Projects/SVN/estasteMap/Shr/site/Tpl/Index/index.html",
+		"/D/Projects/SVN/estasteMap/Shr/lib/ThinkPHP/Extend/Function/extend.php",
+		"/D/Projects/SVN/bluesky/App/Tpl/Product/add.html",
+		"/C/Users/Administrator/Desktop/SHREFP.sql",
+		"/D/Video/权利的游戏/Game.of.Thrones.S02E10.720p.HDTV.x264-IMMERSE.繁体&英文.ass",
+		"/D/Projects/Web/docs/base-css.html",
+		"/D/Projects/Web/docs/scaffolding.html",
+		"/D/Projects/Web/docs/javascript.html",
+		"/D/Projects/Web/docs/index.html",
+		"/D/Projects/Web/docs/getting-started.html",
+		"/D/Projects/Web/docs/components.html",
+		"/D/Projects/Web/docs/extend.html",
+		"/D/Projects/Web/schoolAIO/site/conf/config.php",
+		"/D/Projects/SVN/bluesky/App/Tpl/Index/login.html",
+		"/D/Projects/Github/bootstrap/docs/assets/css/bootstrap-2.3.2.css",
+		"/D/Projects/Web/schoolAIO/public/css/bootstrap.css",
+		"/D/Projects/Web/schoolAIO/public/css/site.css",
+		"/D/Projects/SVN/bluesky/App/Lib/Action/SampleAction.class.php",
+		"/D/Projects/SVN/bluesky/App/Lib/Action/ContactAction.class.php",
+		"/D/Projects/SVN/bluesky/App/Lib/Action/RecordAction.class.php",
+		"/D/Projects/Web/docs/assets/css/pie.css",
+		"/D/Projects/SVN/bluesky/Public/css/layout.css",
+		"/D/Projects/SVN/bluesky/Public/bootstrap-3.0.0-wip/dist/css/bootstrap.css",
+		"/D/Projects/SVN/bluesky/Public/js/PIE.php",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/Default/side_bar.py",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/Default/Find Results.hidden-tmLanguage",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/Default/Default.sublime-commands",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Settings/Auto Save Session.sublime_session",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/BracketHighlighter/Main.sublime-menu",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/Emmet/Main.sublime-menu",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/JsFormat/Main.sublime-menu",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/Nodejs/Main.sublime-menu",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/Package Control/Main.sublime-menu",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/Thinkphp/php.sublime-completions",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/Thinkphp/Context.sublime-menu",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/Default/Context.sublime-menu",
+		"/C/Users/Administrator/Desktop/trans.htm",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/Theme - Soda/Soda Light.sublime-theme",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/JsFormat/libs/jsbeautifier/__init__.py",
+		"/D/Coding/Sublime Text 2.0.1 x64/Data/Packages/Theme - Soda/Soda Light 3.sublime-theme"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\Projects\\SVN\\estasteMap\\Shu\\site\\Tpl\\Shu",
+			"D:\\Projects\\SVN\\bluesky",
+			"D:\\Coding\\Sublime Text 2.0.1 x64",
+			"D:\\Coding\\Sublime Text 2.0.1 x64,*.py",
+			"D:\\Coding\\Sublime Text 2.0.1 x64",
+			"D:\\Music\\水星Living Presence发烧名盘60周年珍藏套装2\\,-*.flac",
+			"D:\\Music\\Ultimate.Classics\\,-*.flac",
+			"D:\\Projects\\Web\\xinhua\\corelibs\\ThinkPHP\\Extend\\",
+			"D:\\Projects\\Web\\ThinkPHPExamples\\rbac",
+			"D:\\Projects\\Web\\xinhua",
+			"E:\\wamp\\www\\xinhua",
+			"E:\\wamp\\www\\qhstat",
+			"E:\\wamp\\www\\rili\\js\\ext-3.4.1\\examples",
+			"E:\\wamp\\www\\rili\\js\\extjs-3.4.1\\examples",
+			"E:\\wamp\\www\\rili\\extjs\\examples",
+			"E:\\wamp\\www\\xls2json",
+			"E:\\Projects\\other\\arcgis\\arcgis_js_v34_api\\arcgis_js_api\\library\\3.4\\3.4",
+			"E:\\wamp\\www\\cms",
+			"E:\\wamp\\www\\xinhua",
+			"E:\\Coding\\python\\Python33\\Lib\\idlelib",
+			"E:\\wamp\\www\\zphelper\\App\\Lib\\",
+			"E:\\Projects\\github\\skulpt\\",
+			"E:\\Projects\\github\\skulpt\\,*.js",
+			"E:\\Projects\\github\\skulpt\\",
+			"E:\\Projects\\github\\skulpt\\src",
+			"C:\\Users\\Administrator\\Desktop\\备课",
+			"E:\\Coding\\python\\Python33\\lib\\",
+			"E:\\Coding\\python\\Python33\\lib\\tkinter",
+			"E:\\Coding\\python\\Python33",
+			"E:\\Coding\\python\\Python33\\Lib",
+			"C:\\Users\\Administrator\\Desktop\\备课",
+			"E:\\Projects\\github\\bootstrap\\docs\\assets\\js",
+			"E:\\Coding\\Adobe Flash Builder 4.6\\sdks\\4.6.0\\frameworks\\projects\\spark\\src",
+			"E:\\wamp\\www\\thinksns,*.php",
+			"E:\\wamp\\www\\thinksns",
+			"E:\\wamp\\www\\sns",
+			"E:\\wamp\\www\\xinhua",
+			"E:\\wamp\\www\\sns",
+			"E:\\wamp\\www\\cmCourse\\",
+			"G:\\mcw_new",
+			"D:\\coding\\Sublime Text 2.0.1 x64\\Data\\Packages",
+			"E:\\wamp\\www\\lan2",
+			"Y:\\音乐\\APE",
+			"E:\\wamp\\www\\zphelper,-*.js",
+			"E:\\wamp\\www\\zphelper",
+			"E:\\wamp\\www\\cms",
+			"E:\\wamp\\www\\zphelper",
+			"C:\\Users\\Administrator\\Desktop\\sqlsrv",
+			"E:\\wamp\\www\\zphelper\\app",
+			"E:\\wamp\\www\\zphelper\\",
+			"E:\\wamp\\www\\zphelper\\thinkphp",
+			"E:\\wamp\\www\\zphelper\\App\\Tpl",
+			"D:\\Program Files\\Sublime Text 2.0.1"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"  ",
+			" ",
+			"  ",
+			" \n类\n型\n长\n度\n约\n束",
+			" \n类\n型\n长\n度\n约\n束\n值空间",
+			" \n类\n型\n长\n度\n约\n束\n",
+			"\n类\n型\n长\n度\n约\n束",
+			"^\\d+ $",
+			"JY/T 1002－2012 ",
+			"\n值空间  解释/举例  引用编号 ",
+			"\n约\n束",
+			" \n长\n度",
+			" \n类\n型",
+			"  ",
+			"  [A-Z]{2}",
+			"  [A-Z]{2}  ",
+			"help-block",
+			".table",
+			"table",
+			"Helvetica Neue",
+			"'rb",
+			"'aG",
+			"'Y",
+			"'M",
+			"'L",
+			"'A",
+			"'TA",
+			"rm4",
+			"'SR",
+			"'RM",
+			"_fg1",
+			"FG",
+			" '",
+			"' ",
+			", ([A-Z])",
+			"(' ",
+			"  ",
+			":00 ",
+			" :00",
+			"_(\\w)\\d  ",
+			"_  ",
+			"\"",
+			"tooltip",
+			"PROMANAGE.",
+			"DROP TABLE [^;]+;",
+			"\"",
+			"dropdown-menu",
+			"label {",
+			"label",
+			".nav-pills",
+			"border-radius: 0",
+			".uneditable-input",
+			"rad",
+			".datetimepicker-days",
+			"convertViewMode",
+			"viewMode",
+			"showMode",
+			"switch",
+			".switch",
+			"headTemplate",
+			"switch",
+			"mm",
+			"viewMode",
+			"changeMode",
+			"datepicker",
+			"****",
+			"Shared/shuHeader",
+			"LOG_PATH",
+			"Logs",
+			"important",
+			"table-bordered",
+			"|",
+			"  ",
+			"　",
+			"  ",
+			"DROP TABLE [^;]+;",
+			"SHREFP",
+			"\"",
+			"font-family",
+			"table-actions",
+			"pagination",
+			".page",
+			"__PUBLIC__/js/PIE.php",
+			"OPEN FILES",
+			"Find Results",
+			"Line",
+			"Preferences",
+			"Find:",
+			"Find prev",
+			"match",
+			"font",
+			"web",
+			"InnoDB",
+			"Ascending",
+			"\"",
+			"th",
+			"see the docs ",
+			"pass no arguments or see the docs ",
+			"pass no arguments or see the docs for bRetrieve and bDestroy",
+			"To retrieve the DataTables object for this table, pass no arguments or see the docs for bRetrieve and bDestroy",
+			"dataTables_length",
+			"f6bf60",
+			"f2871e",
+			"7EA437",
+			"AAD15F",
+			"main",
+			"jarviswidget",
+			"?v=1",
+			"http://www.myorange.ca/theme/jarvisadmin/css/",
+			"bios",
+			"brokers",
+			"apps",
+			"email",
+			"query",
+			"RBAC_ROLE_TABLE",
+			"table",
+			"RBAC_DB_DSN",
+			"Db",
+			"defaultBackgroundOptions",
+			"startAngle",
+			"wrap:",
+			"Axis",
+			"pane",
+			"Pane",
+			"Renderer",
+			"Renderere",
+			"angular",
+			"setState"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			",",
+			"  类型  长度  约束",
+			"",
+			"  值空间  解释/举例  引用编号 ",
+			"  约束",
+			"  长度",
+			"  类型",
+			",",
+			"",
+			"\\n",
+			"'rb",
+			"'ag",
+			"'y",
+			"'m",
+			"'l",
+			"'a",
+			"'ta1",
+			"rm14",
+			"'sr1",
+			"'rm",
+			"_fg",
+			"fg1",
+			"'",
+			", '\\1",
+			"('",
+			" ",
+			":00",
+			":00 ",
+			"_\\1 ",
+			"_\\1",
+			"_",
+			"",
+			"ESTATEMAP.",
+			"",
+			"Shared/header",
+			"║",
+			"　",
+			"  ",
+			"　",
+			"",
+			"estatemap",
+			"",
+			"/docs/pie/PIE.htc",
+			"MyISAM",
+			"`",
+			"td",
+			"ffa443",
+			"ff7400",
+			"f2871e",
+			"f6bf60",
+			"widget",
+			"",
+			"./{JARVIS}Admin_files/",
+			"",
+			"nav-list",
+			"172.16.2.102/jsapi/",
+			"127.0.0.1/jsapi/",
+			"http://127.0.0.1/jsapi/",
+			"<img src=\"{:U('/')}/",
+			"<img src=\"{:U('/')}/\n",
+			"\n",
+			"/g",
+			"",
+			")\" ,",
+			": \"(",
+			")",
+			"<s:Button styleName=\"icon_\\1\" fontSize=\"32\" skinClass=\"cn.slobber.mapCenter.view.skins.IconButtonSkin\"  />",
+			".icon_\\1 {icon: Embed(source='icon.swf', symbol='\\1');}",
+			".",
+			"",
+			"src=\"assets/",
+			"href=\"assets/",
+			"assets",
+			"",
+			"\"",
+			"",
+			"MyISAM",
+			"a\\1",
+			"\\1-\\2-\\3",
+			"  + GB/T",
+			"",
+			"\\n",
+			"mysql_",
+			"root','",
+			"127.0.0.1",
+			"\"\\1\"",
+			"",
+			":",
+			"{",
+			"以后直接进入",
+			"new Page($count)",
+			"",
+			"30",
+			"$i eq 1",
+			"30",
+			"<td <if condition=\"$i eq 0\">width=\"48\"</if>>",
+			"27",
+			"28",
+			"><",
+			"style=\"width:140px;\"></textarea>",
+			"baseurl + '",
+			"baseurl + \"",
+			"/student",
+			"public function student()",
+			"3",
+			"7",
+			"$this->assign(\"$1\",session('$1');",
+			"sfCount",
+			"社区服务",
+			"Shefu",
+			"sfCount",
+			"ssCount",
+			"nav nav-list"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 132.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 340.0
+	},
+	"output.sftp":
+	{
+		"height": 126.0
+	},
+	"replace":
+	{
+		"height": 235.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 127.0,
+	"status_bar_visible": true
+}

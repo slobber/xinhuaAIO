@@ -1,4 +1,5 @@
 <?php
+
 // +----------------------------------------------------------------------
 // | OneThink [ WE CAN DO IT JUST THINK IT ]
 // +----------------------------------------------------------------------
@@ -8,14 +9,16 @@
 // +----------------------------------------------------------------------
 
 namespace Admin\Model;
+
 use Think\Model;
+
 /**
  * 权限规则模型
  * @author 朱亚杰 <zhuyajie@topthink.net>
  */
-class AuthRuleModel extends Model{
-    
-    const RULE_URL = 1;
-    const RULE_MAIN = 2;
+class AuthRuleModel extends Model {
+
+  const RULE_URL = 1;
+  const RULE_MAIN = 2;
 
 }

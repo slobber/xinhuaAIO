@@ -17,14 +17,19 @@ class UcenterMemberModel extends Model{
 	 * @var string
 	 */
 	protected $tablePrefix = UC_TABLE_PREFIX;
+  protected $autoCheckFields = false;
 
-	/**
+  /**
 	 * 数据库连接
 	 * @var string
 	 */
 	protected $connection = UC_DB_DSN;
+  
+  public function _initialize() {
+    parent::_initialize();
+  }
 
-	/* 用户模型自动验证 */
+  /* 用户模型自动验证 */
 	protected $_validate = array(
 		/* 验证用户名 */
 		array('username', '1,30', -1, self::EXISTS_VALIDATE, 'length'), //用户名长度不合法
@@ -44,11 +49,16 @@ class UcenterMemberModel extends Model{
 		array('mobile', '//', -9, self::EXISTS_VALIDATE), //手机格式不正确 TODO:
 		array('mobile', 'checkDenyMobile', -10, self::EXISTS_VALIDATE, 'callback'), //手机禁止注册
 		array('mobile', '', -11, self::EXISTS_VALIDATE, 'unique'), //手机号被占用
+      
+    /* 验证身份证号码 */
+    array('idcard', '//', -12, self::EXISTS_VALIDATE), //身份证号码格式不正确 TODO:
+		array('idcard', 'checkDenyIdcard', -13, self::EXISTS_VALIDATE, 'callback'), //身份证号码禁止注册
+		array('idcard', '', -14, self::EXISTS_VALIDATE, 'unique'), //身份证号码被占用
 	);
 
 	/* 用户模型自动完成 */
 	protected $_auto = array(
-		array('password', 'think_ucenter_md5', self::MODEL_BOTH, 'function', UC_AUTH_KEY),
+		array('password', 'ucenter_md5', self::MODEL_BOTH, 'function', UC_AUTH_KEY),
 		array('reg_time', NOW_TIME, self::MODEL_INSERT),
 		array('reg_ip', 'get_client_ip', self::MODEL_INSERT, 'function', 1),
 		array('update_time', NOW_TIME),
@@ -122,7 +132,7 @@ class UcenterMemberModel extends Model{
 	 * 用户登录认证
 	 * @param  string  $username 用户名
 	 * @param  string  $password 用户密码
-	 * @param  integer $type     用户名类型 （1-用户名，2-邮箱，3-手机，4-UID）
+	 * @param  integer $type     用户名类型 （1-用户名，2-邮箱，3-手机，4-UID，5-身份证号）
 	 * @return integer           登录成功-用户ID，登录失败-错误编号
 	 */
 	public function login($username, $password, $type = 1){
@@ -140,6 +150,8 @@ class UcenterMemberModel extends Model{
 			case 4:
 				$map['id'] = $username;
 				break;
+      case 5:
+        $map['idcard'] = $username;
 			default:
 				return 0; //参数错误
 		}
@@ -148,7 +160,7 @@ class UcenterMemberModel extends Model{
 		$user = $this->where($map)->find();
 		if(is_array($user) && $user['status']){
 			/* 验证用户密码 */
-			if(think_ucenter_md5($password, UC_AUTH_KEY) === $user['password']){
+			if(ucenter_md5($password, UC_AUTH_KEY) === $user['password']){
 				$this->updateLogin($user['id']); //更新用户登录信息
 				return $user['id']; //登录成功，返回用户ID
 			} else {
@@ -256,7 +268,7 @@ class UcenterMemberModel extends Model{
 	 */
 	protected function verifyUser($uid, $password_in){
 		$password = $this->getFieldById($uid, 'password');
-		if(think_ucenter_md5($password_in, UC_AUTH_KEY) === $password){
+		if(ucenter_md5($password_in, UC_AUTH_KEY) === $password){
 			return true;
 		}
 		return false;
